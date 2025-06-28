@@ -69,7 +69,7 @@ Giovanni Saraceno, Fatemah Alqallaf and Claudio Agostinelli (2021?) A Robust See
 \author{
 Claudio Agostinelli and Giovanni Saraceno  
 }
-\seealso{\code{\link{lmrob}}, \code{\link{lm}} and \code{\link[systemfit]{systemfit}}}
+\seealso{\code{\link[robustbase]{lmrob}}, \code{\link{lm}} and \code{\link[systemfit]{systemfit}}}
   
 \examples{
   library(systemfit)
